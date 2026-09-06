@@ -9,9 +9,8 @@ export default function Hero() {
         I build things for the web.
       </h2>
       <p className="mt-5 max-w-xl text-sm leading-relaxed text-muted sm:mt-6 sm:text-base md:text-lg">
-        Senior UI/Full-Stack Engineer with 10+ years of experience specializing
-        in micro frontend architecture, React, and Node.js. Currently at{" "}
-        <span className="text-foreground">Capital One</span>.
+        Senior UI/Full-Stack Engineer with 15+ years of experience specializing
+        in micro frontend architecture, React, and Node.js.
       </p>
 
       <div className="mt-8 flex flex-col gap-3 sm:mt-10 sm:flex-row sm:gap-4">

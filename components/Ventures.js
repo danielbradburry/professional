@@ -12,7 +12,7 @@ export default function Ventures() {
               <h3 className="text-lg font-semibold text-foreground sm:text-xl">
                 CPJ Association Management
               </h3>
-              <p className="text-sm text-accent sm:text-base">Founder & Lead Engineer</p>
+              <p className="text-sm text-accent sm:text-base">Founder & Platform Architect</p>
             </div>
             <span className="shrink-0 font-mono text-xs text-muted">
               2018 — Present
